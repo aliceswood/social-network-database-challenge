@@ -182,7 +182,7 @@ user.id # =>  1
 user.email_address # =>  'test@test.com'
 user.username # =>  'alice1'
 
-# 2
+# 3
 # Get a single user
 
 repo = UserRepository.new
